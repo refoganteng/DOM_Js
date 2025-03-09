@@ -28,3 +28,5 @@ input.addEventListener("keydown", (e) => {
 // input.addEventListener('keyup', () => {
 // 	console.log('Tombol dirilis');
 // });
+
+
